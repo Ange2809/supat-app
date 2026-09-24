@@ -1,14 +1,11 @@
-# supat-app
-Une plateforme ideale pour la collecte et l'analyse descriptive des donnees des patients dans un hopital.
-📌 README.md
-# 🏥 SUPAT Hospital Pro
+# SUPAT Hospital Pro
 
 SUPAT Hospital Pro est une application web de gestion hospitalière intelligente développée avec **Flet (Python)** et **PostgreSQL**.  
 Elle permet la gestion des patients, l’analyse des données médicales et un tableau de bord administrateur.
 
 ---
 
-## 🚀 Fonctionnalités
+##  Fonctionnalités
 
 ### 👨‍⚕️ Côté patient
 - Enregistrement des patients
@@ -105,31 +102,3 @@ L’admin par défaut est :
 
 username: admin
 password: 1234
-📸 Aperçu
-
-Ajoute ici des screenshots de ton app (home, dashboard, analyse)
-
-👨‍💻 Auteur
-
-Développé par [Ton Nom]
-
-📜 Licence
-
-Ce projet est open-source et libre d’utilisation pour fins éducatives.
-
-
----
-
-# 💡 Bonus (important pour GitHub)
-
-Ajoute aussi ces fichiers :
-
-### 📄 `.gitignore`
-```txt
-__pycache__/
-venv/
-.env
-*.pyc
-assets/*.png
-📄 Procfile (si Render/Heroku-like)
-web: python main.py
